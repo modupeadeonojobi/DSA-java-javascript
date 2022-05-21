@@ -1,12 +1,15 @@
-package com.algorithm.imodupsy;
+package com.algorithm.imodupsy.bigo;
 
-public class Main {
+/**
+ * @author iModupsy
+ * @created 21/05/2022
+ */
+public class FindNemo {
 
     public static void main(String[] args) {
-	String[] nemo = {"nemo"};
+        String[] nemo = {"nemo"};
 
-	findNemo(nemo);
-	
+        findNemo(nemo);
     }
 
     public static void findNemo(String[] arr) {
@@ -15,6 +18,7 @@ public class Main {
                 System.out.println("Found NEMO!!!");
             }
         }
-
     }
+
+
 }

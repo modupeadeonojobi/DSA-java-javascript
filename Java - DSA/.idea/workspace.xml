@@ -1,51 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb8e2173-18a5-42d8-bd6e-49dfdf2c7858" name="Default Changelist" comment="" />
+    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java - DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java - DSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigO/findNemo/findNemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigO/findNemo/out/production/findNemo/com/algorithm/imodupsy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigO/findNemo/src/com/algorithm/imodupsy/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
-  <component name="ProjectId" id="29Sg2WjcQGehPEGPq2PSPJUmjle" />
+  <component name="ProjectId" id="29SleRkUSayNGqlJNelTCRaKhuI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.FindNemo">
+    <configuration name="FindNemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.bigo.FindNemo" />
+      <module name="Java - DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.imodupsy.bigo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.Main" />
+      <module name="Java - DSA" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.FindNemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindNemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eb8e2173-18a5-42d8-bd6e-49dfdf2c7858" name="Default Changelist" comment="" />
-      <created>1653111693706</created>
+      <changelist id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="" />
+      <created>1653114463060</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1653111693706</updated>
-      <workItem from="1653111698413" duration="215000" />
+      <updated>1653114463060</updated>
+      <workItem from="1653114468288" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="421" y="78" key="FileChooserDialogImpl" timestamp="1653111861213">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state x="421" y="78" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1653111861213" />
-    <state x="91" y="0" key="new project wizard" timestamp="1653111915580">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.672@0.0.1280.672" timestamp="1653111915580" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
