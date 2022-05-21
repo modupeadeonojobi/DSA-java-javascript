@@ -20,25 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java - DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java - DSA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO/findNemo/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO/findNemo/findNemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO/findNemo/out/production/findNemo/com/algorithm/imodupsy/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigO/findNemo/src/com/algorithm/imodupsy/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -113,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653114463060</updated>
-      <workItem from="1653114468288" duration="306000" />
+      <workItem from="1653114468288" duration="1267000" />
     </task>
     <servers />
   </component>
@@ -130,5 +113,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="153" key="GridCell.Tab.0.bottom" timestamp="1653114795719">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1653114795719" />
+    <state width="1237" height="153" key="GridCell.Tab.0.center" timestamp="1653114795719">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1653114795719" />
+    <state width="1237" height="153" key="GridCell.Tab.0.left" timestamp="1653114795717">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1653114795717" />
+    <state width="1237" height="153" key="GridCell.Tab.0.right" timestamp="1653114795719">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1237" height="153" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1653114795719" />
   </component>
 </project>
