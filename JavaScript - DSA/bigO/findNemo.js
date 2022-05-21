@@ -1,7 +1,7 @@
 // Time complexity is O(n) or linear time ie, BigO of n.  GOOD
 // By linear time or BigO of n, the operation will increase as the input increases.
 // for loops, while loops through n items
-const nemo = ['nemo'];
+const nemo = ['nemo', 'dan', 'niel', 'joe'];
 function foundNemo(array) {
     for (let i = 0; i < nemo.length; i++) {
         if (nemo[i] === 'nemo') {
