@@ -12,7 +12,7 @@ function foundNemo(array) {
 foundNemo(nemo);
 
 
-// Time complexity is O(1) or constant time ie, BigO of n. EXCELLENT
+// Time complexity is O(1) or constant time ie, BigO of 1. EXCELLENT
 // No matter the size of the array, the operation will always be 1 ie, constant time.
 // No loop
 const names = ['John', 'Doe', 'Jane'];

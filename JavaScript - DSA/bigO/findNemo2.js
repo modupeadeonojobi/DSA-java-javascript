@@ -1,6 +1,6 @@
 // Making our code efficient
 // By breaking out of the code, instead of running according to the 
-// length/size of the data, it stops running immediat it find the expected outcome.
+// length/size of the data, it stops running immediately it find the expected outcome.
 
 const nemo2 = ['nemo', 'dan', 'niel', 'joe'];
 function foundNemo(array) {
