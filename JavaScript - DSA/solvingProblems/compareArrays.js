@@ -64,4 +64,23 @@ function containSameItem2(arr1, arr2) {
 }
 
 const doesItContainSame = containSameItem(arr1, arr2);
-console.log(doesItContainSame);
+// console.log(doesItContainSame);
+
+const nums = [0,1,2,2,3,0,4,2];
+let val = 2;
+
+var removeElement = function(nums, val) {
+    // console.log(nums.length);
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] === val) {
+            // console.log(nums[i], );
+    
+            nums.splice(i, );
+            
+        }
+    }
+    return nums.length;
+    
+};
+
+console.log(removeElement(nums, val))
