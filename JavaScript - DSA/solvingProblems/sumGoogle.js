@@ -1,6 +1,8 @@
 const arr1 = [1, 2, 3, 4, 5];
 const arr2 = [1, 2, 3, 4, 4];
 
+const target = 8;
+
 
 // ================================== (1) =====================================
 // Brute force approach
@@ -15,7 +17,7 @@ function findSumOfTarget(arr1, sum) {
     return false;
 }
 
-const haveSum = findSumOfTarget(arr1, 8);
+const haveSum = findSumOfTarget(arr1, target);
 console.log(haveSum);
 
 
@@ -34,5 +36,5 @@ function findSumOfTarget2(arr1, sum) {
     return false;
 }
 
-const haveSum2 = findSumOfTarget2(arr1, 8);
+const haveSum2 = findSumOfTarget2(arr1, target);
 console.log(haveSum2);
