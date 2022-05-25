@@ -55,6 +55,4 @@ public class CompareArrays {
         return false;
     }
 
-
-
 }

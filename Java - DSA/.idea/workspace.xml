@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/algorithm/imodupsy/solvingproblem/CompareArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/imodupsy/solvingproblem/CompareArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaScript - DSA/solvingProblems/compareArrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript - DSA/solvingProblems/compareArrays.js" afterDir="false" />
     </list>
@@ -112,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653114463060</updated>
       <workItem from="1653114468288" duration="4242000" />
-      <workItem from="1653370291711" duration="1791000" />
+      <workItem from="1653370291711" duration="2057000" />
     </task>
     <servers />
   </component>
