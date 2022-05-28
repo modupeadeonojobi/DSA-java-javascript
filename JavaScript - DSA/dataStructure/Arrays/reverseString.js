@@ -29,3 +29,11 @@ function reverse2(str) {
 
 const strReversed2 = reverse2(str);
 console.log(strReversed2);
+
+
+// ================================== (3) =====================================
+// Using ES6 function
+const reverse3 = str => str.split('').reverse().join('');
+
+const strReversed3 = reverse3(str);
+console.log(strReversed3);
