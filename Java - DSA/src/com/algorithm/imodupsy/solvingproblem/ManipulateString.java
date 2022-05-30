@@ -12,6 +12,7 @@ public class ManipulateString {
 //        System.out.println(strNew);
 
         reverseAString(name);
+        reverse(name);
     }
 
     public static void reverseAString(String name) {
@@ -21,6 +22,23 @@ public class ManipulateString {
 
         }
 
+    }
+
+    public static void reverse(String name) {
+
+        String strReverse = "";
+
+        if (name == null || name == "" || name.length() < 2) {
+            System.out.println("Hey!, this is not a string");
+        }
+
+        char[] charName = name.toCharArray();
+
+        for (int i = charName.length -1; i >= 0; i--) {
+            strReverse += charName[i];
+        }
+
+        System.out.println(strReverse);
     }
 
 }

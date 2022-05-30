@@ -34,6 +34,7 @@ console.log(strReversed2);
 // ================================== (3) =====================================
 // Using ES6 function
 const reverse3 = str => str.split('').reverse().join('');
+                    // [...str].reverse().join('') - OR USING THE SPREAD OPERATOR
 
 const strReversed3 = reverse3(str);
 console.log(strReversed3);
