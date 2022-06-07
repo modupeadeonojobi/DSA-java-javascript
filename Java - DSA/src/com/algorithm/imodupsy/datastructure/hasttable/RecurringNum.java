@@ -1,7 +1,6 @@
 package com.algorithm.imodupsy.datastructure.hasttable;
 
 import java.util.HashMap;
-import java.util.Hashtable;
 
 /**
  * @author iModupsy
@@ -17,13 +16,13 @@ public class RecurringNum {
     }
 
     public static int firstRecurringNum(int[] nums) {
-        HashMap<Integer, Integer> allNums = new HashMap<>();
+        HashMap allNums = new HashMap();
 
         for (int i = 0; i < nums.length; i++) {
-            if (allNums.containsKey(nums[i]))
+            if (allNums.containsKey(nums[i])) {
                 return nums[i];
-            else
-                allNums.put(nums[i], i);
+            }
+            allNums.put(nums[i], i);
         }
         return 0;
     }
