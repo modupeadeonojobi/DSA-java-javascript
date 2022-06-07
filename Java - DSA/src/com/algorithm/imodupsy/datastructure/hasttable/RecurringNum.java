@@ -16,13 +16,13 @@ public class RecurringNum {
     }
 
     public static int firstRecurringNum(int[] nums) {
-        HashMap allNums = new HashMap();
+        HashMap<Integer, Integer> allNums = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
-            if (allNums.containsKey(nums[i])) {
+            if (allNums.containsKey(nums[i]))
                 return nums[i];
-            }
-            allNums.put(nums[i], i);
+            else
+                allNums.put(nums[i], i);
         }
         return 0;
     }
