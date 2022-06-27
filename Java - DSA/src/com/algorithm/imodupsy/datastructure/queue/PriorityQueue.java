@@ -23,14 +23,17 @@ public class PriorityQueue {
     public static void main(String[] args) {
         java.util.PriorityQueue<String> queue = new java.util.PriorityQueue<>();
         queue.addAll(List.of("Pig", "Zebra", "Monkey", "Cat", "Goat"));
-//        System.out.println(queue);
 
-//        queue.peek();
-        queue.peek();
+
+        // Both peek and poll act the same way. Retrieve the head of the queue.
+        String peek = queue.peek();
+        System.out.println(peek);
+
+        String poll = queue.poll();
+        System.out.println(poll);
+
         System.out.println(queue);
 
-//        Queue
-//        PriorityQueue priorityQueue;
     }
 }
 
