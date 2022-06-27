@@ -51,8 +51,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.RemoveFromArray">
+  <component name="RunManager" selected="Application.PriorityQueue">
     <configuration name="FindAChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.solvingproblem.FindAChar" />
       <module name="Java - DSA" />
@@ -66,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.datastructure.MergeSortedArray" />
+    <configuration name="PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.datastructure.queue.PriorityQueue" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.datastructure.*" />
+          <option name="PATTERN" value="com.algorithm.imodupsy.datastructure.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MergeSortedArray" />
       <item itemvalue="Application.RecurringNum" />
       <item itemvalue="Application.ReverseLinkedList" />
       <item itemvalue="Application.FindAChar" />
       <item itemvalue="Application.RemoveFromArray" />
+      <item itemvalue="Application.PriorityQueue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PriorityQueue" />
         <item itemvalue="Application.RemoveFromArray" />
         <item itemvalue="Application.FindAChar" />
         <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.RecurringNum" />
-        <item itemvalue="Application.MergeSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +158,8 @@
       <workItem from="1655460850967" duration="4165000" />
       <workItem from="1655714126900" duration="6000" />
       <workItem from="1655763534571" duration="681000" />
-      <workItem from="1656141800166" duration="2082000" />
+      <workItem from="1656141800166" duration="2884000" />
+      <workItem from="1656328584414" duration="3910000" />
     </task>
     <servers />
   </component>
@@ -172,30 +179,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="188" key="GridCell.Tab.0.bottom" timestamp="1656143224556">
-      <screen x="0" y="0" width="1280" height="672" />
+    <state x="2365" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1656339011472">
+      <screen x="1920" y="0" width="1280" height="912" />
     </state>
+    <state x="2365" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656339011472" />
+    <state width="1237" height="281" key="GridCell.Tab.0.bottom" timestamp="1656339863998">
+      <screen x="1920" y="0" width="1280" height="912" />
+    </state>
+    <state width="1237" height="281" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656339863998" />
     <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="188" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656143224556" />
-    <state width="1237" height="188" key="GridCell.Tab.0.center" timestamp="1656143224556">
-      <screen x="0" y="0" width="1280" height="672" />
+    <state width="1237" height="188" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656167872667" />
+    <state width="1237" height="281" key="GridCell.Tab.0.center" timestamp="1656339863998">
+      <screen x="1920" y="0" width="1280" height="912" />
     </state>
+    <state width="1237" height="281" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656339863998" />
     <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="188" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1656143224556" />
-    <state width="1237" height="188" key="GridCell.Tab.0.left" timestamp="1656143224554">
-      <screen x="0" y="0" width="1280" height="672" />
+    <state width="1237" height="188" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1656167872651" />
+    <state width="1237" height="281" key="GridCell.Tab.0.left" timestamp="1656339863998">
+      <screen x="1920" y="0" width="1280" height="912" />
     </state>
+    <state width="1237" height="281" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656339863998" />
     <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618853" />
-    <state width="1237" height="188" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1656143224554" />
-    <state width="1237" height="188" key="GridCell.Tab.0.right" timestamp="1656143224556">
-      <screen x="0" y="0" width="1280" height="672" />
+    <state width="1237" height="188" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1656167872630" />
+    <state width="1237" height="281" key="GridCell.Tab.0.right" timestamp="1656339863998">
+      <screen x="1920" y="0" width="1280" height="912" />
     </state>
+    <state width="1237" height="281" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656339863998" />
     <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="188" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1656143224556" />
+    <state width="1237" height="188" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1656167872653" />
     <state width="1237" height="192" key="GridCell.Tab.1.bottom" timestamp="1655462124492">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
