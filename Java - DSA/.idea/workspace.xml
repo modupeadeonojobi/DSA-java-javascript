@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.MergeTwoSortedArrays">
+  <component name="RunManager" selected="Application.removeDuplicate">
     <configuration name="CountRecurring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.datastructure.hasttable.CountRecurring" />
       <module name="Java - DSA" />
@@ -112,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.solvingproblem.RemoveFromArray" />
+    <configuration name="removeDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.integer.removeDuplicate" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.solvingproblem.*" />
+          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveFromArray" />
       <item itemvalue="Application.PriorityQueue" />
       <item itemvalue="Application.CountRecurring" />
       <item itemvalue="Application.RecurringNum" />
       <item itemvalue="Application.MergeTwoSortedArrays" />
+      <item itemvalue="Application.removeDuplicate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.removeDuplicate" />
         <item itemvalue="Application.MergeTwoSortedArrays" />
         <item itemvalue="Application.CountRecurring" />
         <item itemvalue="Application.RecurringNum" />
         <item itemvalue="Application.PriorityQueue" />
-        <item itemvalue="Application.RemoveFromArray" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +160,7 @@
       <workItem from="1655763534571" duration="681000" />
       <workItem from="1656141800166" duration="2884000" />
       <workItem from="1656328584414" duration="4038000" />
-      <workItem from="1656356808141" duration="5433000" />
+      <workItem from="1656356808141" duration="6563000" />
     </task>
     <servers />
   </component>
@@ -185,34 +184,34 @@
       <screen x="1920" y="0" width="1280" height="912" />
     </state>
     <state x="2365" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656339011472" />
-    <state width="1237" height="186" key="GridCell.Tab.0.bottom" timestamp="1656360999564">
+    <state width="1237" height="116" key="GridCell.Tab.0.bottom" timestamp="1656396419893">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1237" height="281" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
     <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="186" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656360999564" />
-    <state width="1237" height="186" key="GridCell.Tab.0.center" timestamp="1656360999563">
+    <state width="1237" height="116" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656396419893" />
+    <state width="1237" height="116" key="GridCell.Tab.0.center" timestamp="1656396419893">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1237" height="281" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
     <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="186" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1656360999563" />
-    <state width="1237" height="186" key="GridCell.Tab.0.left" timestamp="1656360999563">
+    <state width="1237" height="116" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1656396419893" />
+    <state width="1237" height="116" key="GridCell.Tab.0.left" timestamp="1656396419893">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1237" height="281" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
     <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618853" />
-    <state width="1237" height="186" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1656360999563" />
-    <state width="1237" height="186" key="GridCell.Tab.0.right" timestamp="1656360999564">
+    <state width="1237" height="116" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1656396419893" />
+    <state width="1237" height="116" key="GridCell.Tab.0.right" timestamp="1656396419893">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1237" height="281" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
     <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="186" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1656360999564" />
+    <state width="1237" height="116" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1656396419893" />
     <state width="1237" height="192" key="GridCell.Tab.1.bottom" timestamp="1655462124492">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -233,10 +232,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="371" y="87" key="extract.method.dialog/0.0.1280.672@0.0.1280.672" timestamp="1656142790190" />
-    <state x="348" y="71" width="585" height="530" key="find.popup" timestamp="1654814111256">
+    <state x="348" y="71" width="585" height="530" key="find.popup" timestamp="1656395408093">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="348" y="71" width="585" height="530" key="find.popup/0.0.1280.672@0.0.1280.672" timestamp="1654814111256" />
+    <state x="348" y="71" width="585" height="530" key="find.popup/0.0.1280.672@0.0.1280.672" timestamp="1656395408093" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
