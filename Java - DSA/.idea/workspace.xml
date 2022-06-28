@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - DSA/com/algorithm/imodupsy/datastructure/queue/PriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - DSA/com/algorithm/imodupsy/datastructure/queue/PriorityQueue.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.CountRecurring">
+  <component name="RunManager" selected="Application.MergeTwoSortedArrays">
     <configuration name="CountRecurring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.datastructure.hasttable.CountRecurring" />
       <module name="Java - DSA" />
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.solvingproblem.FindAChar" />
+    <configuration name="MergeTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.integer.MergeTwoSortedArrays" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.solvingproblem.*" />
+          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindAChar" />
       <item itemvalue="Application.RemoveFromArray" />
       <item itemvalue="Application.PriorityQueue" />
       <item itemvalue="Application.CountRecurring" />
       <item itemvalue="Application.RecurringNum" />
+      <item itemvalue="Application.MergeTwoSortedArrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTwoSortedArrays" />
         <item itemvalue="Application.CountRecurring" />
         <item itemvalue="Application.RecurringNum" />
         <item itemvalue="Application.PriorityQueue" />
         <item itemvalue="Application.RemoveFromArray" />
-        <item itemvalue="Application.FindAChar" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,7 @@
       <workItem from="1655763534571" duration="681000" />
       <workItem from="1656141800166" duration="2884000" />
       <workItem from="1656328584414" duration="4038000" />
-      <workItem from="1656356808141" duration="4365000" />
+      <workItem from="1656356808141" duration="5433000" />
     </task>
     <servers />
   </component>
