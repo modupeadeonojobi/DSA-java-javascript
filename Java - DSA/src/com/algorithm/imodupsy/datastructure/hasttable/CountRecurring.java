@@ -28,7 +28,7 @@ public class CountRecurring {
             if (value == null) {
                 occurrence.put(character, 1);
             } else {
-                occurrence.put(character, value++);
+                occurrence.put(character, value +1);
             }
         }
 
@@ -46,7 +46,7 @@ public class CountRecurring {
             if (numberOfTimes == null) {
                 stringOccurrences.put(word, 1);
             } else {
-                stringOccurrences.put(word, numberOfTimes++);
+                stringOccurrences.put(word, numberOfTimes +1);
             }
         }
         System.out.println("Words count " + stringOccurrences);
