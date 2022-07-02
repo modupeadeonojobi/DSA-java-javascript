@@ -58,26 +58,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.JewelAndStone">
+  <component name="RunManager" selected="Application.ReverseString">
     <configuration name="CountOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.integer.CountOccurrence" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.integer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountRecurring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.datastructure.hasttable.CountRecurring" />
-      <module name="Java - DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.datastructure.hasttable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,20 +111,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.string.ReverseString" />
+      <module name="Java - DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CountRecurring" />
       <item itemvalue="Application.CountOccurrence" />
       <item itemvalue="Application.RemoveVowel" />
       <item itemvalue="Application.DefangedIPAddress" />
       <item itemvalue="Application.JewelAndStone" />
+      <item itemvalue="Application.ReverseString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.JewelAndStone" />
         <item itemvalue="Application.CountOccurrence" />
         <item itemvalue="Application.DefangedIPAddress" />
         <item itemvalue="Application.RemoveVowel" />
-        <item itemvalue="Application.CountRecurring" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,7 @@
       <workItem from="1656328584414" duration="4038000" />
       <workItem from="1656356808141" duration="7487000" />
       <workItem from="1656442513916" duration="5836000" />
-      <workItem from="1656684128815" duration="5042000" />
+      <workItem from="1656684128815" duration="6535000" />
     </task>
     <servers />
   </component>
@@ -186,58 +186,58 @@
       <screen x="1920" y="0" width="1280" height="912" />
     </state>
     <state x="2365" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656339011472" />
-    <state width="1237" height="173" key="GridCell.Tab.0.bottom" timestamp="1656737975886">
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom" timestamp="1656790350233">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1237" height="116" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.912@0.0.1280.672" timestamp="1656418596982" />
     <state width="1237" height="281" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
     <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="173" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656737975886" />
-    <state width="1237" height="173" key="GridCell.Tab.0.center" timestamp="1656737975886">
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656790350233" />
+    <state width="1237" height="173" key="GridCell.Tab.0.center" timestamp="1656790350233">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1237" height="116" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.912@0.0.1280.672" timestamp="1656418596981" />
     <state width="1237" height="281" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
     <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="173" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1656737975886" />
-    <state width="1237" height="173" key="GridCell.Tab.0.left" timestamp="1656737975886">
+    <state width="1237" height="173" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1656790350233" />
+    <state width="1237" height="173" key="GridCell.Tab.0.left" timestamp="1656790350233">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1237" height="116" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.912@0.0.1280.672" timestamp="1656418596977" />
     <state width="1237" height="281" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
     <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618853" />
-    <state width="1237" height="173" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1656737975886" />
-    <state width="1237" height="173" key="GridCell.Tab.0.right" timestamp="1656737975886">
+    <state width="1237" height="173" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1656790350233" />
+    <state width="1237" height="173" key="GridCell.Tab.0.right" timestamp="1656790350233">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1237" height="116" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.912@0.0.1280.672" timestamp="1656418596981" />
     <state width="1237" height="281" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
     <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
     <state width="1237" height="137" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="173" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1656737975886" />
-    <state width="1237" height="257" key="GridCell.Tab.1.bottom" timestamp="1656737254267">
+    <state width="1237" height="173" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1656790350233" />
+    <state width="1237" height="133" key="GridCell.Tab.1.bottom" timestamp="1656789856822">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="1237" height="257" key="GridCell.Tab.1.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656737254267" />
-    <state width="1237" height="257" key="GridCell.Tab.1.center" timestamp="1656737254267">
+    <state width="1237" height="133" key="GridCell.Tab.1.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656789856822" />
+    <state width="1237" height="133" key="GridCell.Tab.1.center" timestamp="1656789856821">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="1237" height="257" key="GridCell.Tab.1.center/0.0.1280.672@0.0.1280.672" timestamp="1656737254267" />
-    <state width="1237" height="257" key="GridCell.Tab.1.left" timestamp="1656737254267">
+    <state width="1237" height="133" key="GridCell.Tab.1.center/0.0.1280.672@0.0.1280.672" timestamp="1656789856821" />
+    <state width="1237" height="133" key="GridCell.Tab.1.left" timestamp="1656789856821">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="1237" height="257" key="GridCell.Tab.1.left/0.0.1280.672@0.0.1280.672" timestamp="1656737254267" />
-    <state width="1237" height="257" key="GridCell.Tab.1.right" timestamp="1656737254267">
+    <state width="1237" height="133" key="GridCell.Tab.1.left/0.0.1280.672@0.0.1280.672" timestamp="1656789856821" />
+    <state width="1237" height="133" key="GridCell.Tab.1.right" timestamp="1656789856822">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state width="1237" height="257" key="GridCell.Tab.1.right/0.0.1280.672@0.0.1280.672" timestamp="1656737254267" />
-    <state x="371" y="87" key="extract.method.dialog" timestamp="1656686374792">
+    <state width="1237" height="133" key="GridCell.Tab.1.right/0.0.1280.672@0.0.1280.672" timestamp="1656789856822" />
+    <state x="371" y="87" key="extract.method.dialog" timestamp="1656790164044">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="371" y="87" key="extract.method.dialog/0.0.1280.672@0.0.1280.672" timestamp="1656686374792" />
+    <state x="371" y="87" key="extract.method.dialog/0.0.1280.672@0.0.1280.672" timestamp="1656790164044" />
     <state x="348" y="71" width="585" height="530" key="find.popup" timestamp="1656736904203">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
