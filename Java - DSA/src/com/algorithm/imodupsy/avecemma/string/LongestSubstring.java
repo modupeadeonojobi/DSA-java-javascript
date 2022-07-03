@@ -10,22 +10,23 @@ import java.util.Queue;
 public class LongestSubstring {
 
     public static void main(String[] args) {
-        String randomWord = "abcabcbb";
+        String randomWord = "aafabccbb";
 
         solveWithQueue(randomWord);
     }
 
     private static void solveWithQueue(String randomWord) {
         Queue<Character> queue = new LinkedList<>();
-        int res = 0;
+        int count = 0;
         for (char c : randomWord.toCharArray()) {
             while (queue.contains(c)) {
                 queue.poll();
+
             }
             queue.offer(c);
-            res = Math.max(res, queue.size());
+            count = Math.max(count, queue.size());
 
         }
-        System.out.println(res);
+        System.out.println(count);
     }
 }
