@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,13 +60,13 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RemoveDuplicateFromArray">
-    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.string.LongestPalindromicSubstring" />
+  <component name="RunManager" selected="Application.CountFrequency">
+    <configuration name="CountFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.CountFrequency" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.string.*" />
+          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.string.LongestSubstring" />
+    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.string.LongestPalindromicSubstring" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
@@ -129,19 +127,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CountFrequency" />
       <item itemvalue="Application.MergeTwoSortedArray" />
       <item itemvalue="Application.RemoveDuplicateFromArray" />
-      <item itemvalue="Application.LongestSubstring" />
       <item itemvalue="Application.LongestPalindromicSubstring" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountFrequency" />
         <item itemvalue="Application.RemoveDuplicateFromArray" />
         <item itemvalue="Application.MergeTwoSortedArray" />
         <item itemvalue="Application.LongestPalindromicSubstring" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +166,7 @@
       <workItem from="1656356808141" duration="7487000" />
       <workItem from="1656442513916" duration="5836000" />
       <workItem from="1656684128815" duration="16847000" />
-      <workItem from="1657539134051" duration="2467000" />
+      <workItem from="1657539134051" duration="2907000" />
     </task>
     <servers />
   </component>
