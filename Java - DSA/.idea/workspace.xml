@@ -58,10 +58,11 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MergeTwoSortedArray">
+  <component name="RunManager" selected="Application.RemoveDuplicateFromArray">
     <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.string.LongestPalindromicSubstring" />
       <module name="Java - DSA" />
@@ -114,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.string.ReverseString" />
+    <configuration name="RemoveDuplicateFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.RemoveDuplicateFromArray" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.string.*" />
+          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,18 +130,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.MergeTwoSortedArray" />
-      <item itemvalue="Application.ReverseString" />
+      <item itemvalue="Application.RemoveDuplicateFromArray" />
       <item itemvalue="Application.LongestSubstring" />
       <item itemvalue="Application.LongestPalindromicSubstring" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicateFromArray" />
         <item itemvalue="Application.MergeTwoSortedArray" />
         <item itemvalue="Application.LongestPalindromicSubstring" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LongestSubstring" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +168,7 @@
       <workItem from="1656356808141" duration="7487000" />
       <workItem from="1656442513916" duration="5836000" />
       <workItem from="1656684128815" duration="16847000" />
-      <workItem from="1657539134051" duration="1059000" />
+      <workItem from="1657539134051" duration="2467000" />
     </task>
     <servers />
   </component>
@@ -184,76 +185,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2365" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1656339011472">
-      <screen x="1920" y="0" width="1280" height="912" />
-    </state>
-    <state x="2365" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656339011472" />
-    <state width="1237" height="91" key="GridCell.Tab.0.bottom" timestamp="1656968253624">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state width="1237" height="116" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.912@0.0.1280.672" timestamp="1656418596982" />
-    <state width="1237" height="281" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
-    <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
-    <state width="1237" height="137" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="91" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656968253624" />
-    <state width="1237" height="91" key="GridCell.Tab.0.center" timestamp="1656968253623">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state width="1237" height="116" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.912@0.0.1280.672" timestamp="1656418596981" />
-    <state width="1237" height="281" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
-    <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
-    <state width="1237" height="137" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="91" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1656968253623" />
-    <state width="1237" height="91" key="GridCell.Tab.0.left" timestamp="1656968253623">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state width="1237" height="116" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.912@0.0.1280.672" timestamp="1656418596977" />
-    <state width="1237" height="281" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
-    <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
-    <state width="1237" height="137" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618853" />
-    <state width="1237" height="91" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1656968253623" />
-    <state width="1237" height="91" key="GridCell.Tab.0.right" timestamp="1656968253624">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state width="1237" height="116" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.912@0.0.1280.672" timestamp="1656418596981" />
-    <state width="1237" height="281" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.912@1920.0.1280.912" timestamp="1656340611420" />
-    <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.976@0.0.1280.672" timestamp="1653554037658" />
-    <state width="1237" height="137" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1280.976@1920.0.1280.976" timestamp="1654614618854" />
-    <state width="1237" height="91" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1656968253624" />
-    <state width="1237" height="91" key="GridCell.Tab.1.bottom" timestamp="1656968253625">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state width="1237" height="91" key="GridCell.Tab.1.bottom/0.0.1280.672@0.0.1280.672" timestamp="1656968253625" />
-    <state width="1237" height="91" key="GridCell.Tab.1.center" timestamp="1656968253624">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state width="1237" height="91" key="GridCell.Tab.1.center/0.0.1280.672@0.0.1280.672" timestamp="1656968253624" />
-    <state width="1237" height="91" key="GridCell.Tab.1.left" timestamp="1656968253624">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state width="1237" height="91" key="GridCell.Tab.1.left/0.0.1280.672@0.0.1280.672" timestamp="1656968253624" />
-    <state width="1237" height="91" key="GridCell.Tab.1.right" timestamp="1656968253624">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state width="1237" height="91" key="GridCell.Tab.1.right/0.0.1280.672@0.0.1280.672" timestamp="1656968253624" />
-    <state x="371" y="87" key="extract.method.dialog" timestamp="1656862487597">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state x="371" y="87" key="extract.method.dialog/0.0.1280.672@0.0.1280.672" timestamp="1656862487597" />
-    <state x="348" y="71" width="585" height="530" key="find.popup" timestamp="1656736904203">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state x="348" y="71" width="585" height="530" key="find.popup/0.0.1280.672@0.0.1280.672" timestamp="1656736904203" />
-    <state x="91" y="0" key="new project wizard" timestamp="1656502881132">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.672@0.0.1280.672" timestamp="1656502881132" />
-    <state x="348" y="94" key="refactoring.ChangeSignatureDialog" timestamp="1656965260531">
-      <screen x="0" y="0" width="1280" height="672" />
-    </state>
-    <state x="348" y="94" key="refactoring.ChangeSignatureDialog/0.0.1280.672@0.0.1280.672" timestamp="1656965260531" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
