@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.MinAndMax">
     <configuration name="CountFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.CountFrequency" />
       <module name="Java - DSA" />
@@ -76,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.string.LongestPalindromicSubstring" />
+    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.MergeTwoSortedArray" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.string.*" />
+          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.MergeTwoSortedArray" />
+    <configuration name="MinAndMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.MinAndMax" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
@@ -131,17 +129,17 @@
     <list>
       <item itemvalue="Application.CountFrequency" />
       <item itemvalue="Application.MergeTwoSortedArray" />
+      <item itemvalue="Application.MinAndMax" />
       <item itemvalue="Application.RemoveDuplicateFromArray" />
       <item itemvalue="Application.TwoSum" />
-      <item itemvalue="Application.LongestPalindromicSubstring" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinAndMax" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.CountFrequency" />
         <item itemvalue="Application.RemoveDuplicateFromArray" />
         <item itemvalue="Application.MergeTwoSortedArray" />
-        <item itemvalue="Application.LongestPalindromicSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +166,7 @@
       <workItem from="1656356808141" duration="7487000" />
       <workItem from="1656442513916" duration="5836000" />
       <workItem from="1656684128815" duration="16847000" />
-      <workItem from="1657539134051" duration="5520000" />
+      <workItem from="1657539134051" duration="6331000" />
     </task>
     <servers />
   </component>
