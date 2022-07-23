@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="" />
+    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java - DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java - DSA.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -45,14 +50,23 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29SleRkUSayNGqlJNelTCRaKhuI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,22 +74,20 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MinAndMax">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FizzBuzzTest">
     <configuration name="CountFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.CountFrequency" />
-      <module name="Java - DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.MergeTwoSortedArray" />
       <module name="Java - DSA" />
       <extension name="coverage">
         <pattern>
@@ -100,19 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.RemoveDuplicateFromArray" />
-      <module name="Java - DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.TwoSum" />
       <module name="Java - DSA" />
@@ -126,20 +125,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java - DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas.FizzBuzzTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.testFizzBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java - DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testFizzBuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.CountFrequency" />
-      <item itemvalue="Application.MergeTwoSortedArray" />
       <item itemvalue="Application.MinAndMax" />
-      <item itemvalue="Application.RemoveDuplicateFromArray" />
       <item itemvalue="Application.TwoSum" />
+      <item itemvalue="JUnit.FizzBuzzTest" />
+      <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzz" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest" />
+        <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzz" />
         <item itemvalue="Application.MinAndMax" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.CountFrequency" />
-        <item itemvalue="Application.RemoveDuplicateFromArray" />
-        <item itemvalue="Application.MergeTwoSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +196,9 @@
       <workItem from="1656356808141" duration="7487000" />
       <workItem from="1656442513916" duration="5836000" />
       <workItem from="1656684128815" duration="16847000" />
-      <workItem from="1657539134051" duration="6331000" />
+      <workItem from="1657539134051" duration="6527000" />
+      <workItem from="1657776483073" duration="2178000" />
+      <workItem from="1658601011827" duration="3162000" />
     </task>
     <servers />
   </component>
