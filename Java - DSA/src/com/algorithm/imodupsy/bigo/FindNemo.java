@@ -7,7 +7,7 @@ package com.algorithm.imodupsy.bigo;
 public class FindNemo {
 
     public static void main(String[] args) {
-        String[] nemo = {"nemo"};
+        String[] nemo = {"jane", "nemo", "becca", "dan"};
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8,};
         String[] alphabets = {"a", "b", "c", "x", "y", "z"};
 
@@ -20,7 +20,7 @@ public class FindNemo {
     public static void findNemo(String[] arr) {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == "nemo") {
-                System.out.println("Found NEMO!!!");
+                System.out.printf("Found NEMO!!! %s%n", arr[i]);
                 break; // This line make the code efficient
             }
         }
@@ -40,7 +40,5 @@ public class FindNemo {
         }
 
     }
-
-
 
 }

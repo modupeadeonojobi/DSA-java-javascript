@@ -1,8 +1,8 @@
 package com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
 /**
  * @author iModupsy
  * @created 24/07/2022
