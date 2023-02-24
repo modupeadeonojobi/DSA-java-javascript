@@ -19,11 +19,15 @@ public class RecurringNum {
         HashMap<Integer, Integer> allNums = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
-            if (allNums.containsKey(nums[i]))
-                return nums[i];
-            else
-                allNums.put(nums[i], i);
+            Integer value = allNums.get(nums[i]);
+            if (value == null) {
+                allNums.put(nums[i], 1);
+            } else {
+                allNums.put(nums[i], value + 1);
+            }
         }
+        System.out.println(allNums);
         return 0;
+
     }
 }

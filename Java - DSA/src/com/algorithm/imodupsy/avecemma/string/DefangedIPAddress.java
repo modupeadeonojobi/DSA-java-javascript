@@ -9,8 +9,8 @@ public class DefangedIPAddress {
     public static void main(String[] args) {
         String addressIP = "255.100.50.0";
 
-//        usingRegex(addressIP);
-        usingCharArray(addressIP);
+        usingRegex(addressIP);
+//        usingCharArray(addressIP);
     }
 
     private static void usingRegex(String addressIP) {
