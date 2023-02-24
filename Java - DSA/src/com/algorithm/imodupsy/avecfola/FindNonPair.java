@@ -17,8 +17,22 @@ public class FindNonPair {
         System.out.println(nonPair);
     }
 
-    private static int getNonPair(int[] nums) {
+    // ChatGPT
+    /**
+     * XOR (exclusive OR) is a logical operation that takes two operands and returns
+     * a value of true if and only if exactly one of the operands is true.
+     * In other words, the XOR operation returns true if the operands are different,
+     * and false if they are the same.
+     * */
+    public static int findNonPair(int[] nums) {
+        int result = 0;
+        for (int num : nums) {
+            result ^= num;
+        }
+        return result;
+    }
 
+    private static int getNonPair(int[] nums) {
         if (nums.length == 1) {
             return nums[0];
         }
