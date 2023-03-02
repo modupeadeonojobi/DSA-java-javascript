@@ -45,6 +45,9 @@ public class FindNonPair {
             } else {
                 numMap.put(num, value + 1);
             }
+            numMap.put(num, numMap.getOrDefault(num, 0)+ 1);
+
+
         }
 
         for (Map.Entry<Integer, Integer> entry : numMap.entrySet()){
