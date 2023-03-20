@@ -25,6 +25,7 @@ public class Majority {
             mapNums.put(n, mapNums.getOrDefault(n, 0) + 1);
         }
 
+
         for(Map.Entry<Integer, Integer> entry : mapNums.entrySet()) {
             if (entry.getValue() > max) {
                 elements.add(entry.getKey());

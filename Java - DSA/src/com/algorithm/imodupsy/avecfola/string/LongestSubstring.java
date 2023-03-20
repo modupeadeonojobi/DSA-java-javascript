@@ -12,8 +12,8 @@ public class LongestSubstring {
     public static void main(String[] args) {
         String s = "pwwkew";
 
-        int lngest = lngSubstring(s);
-        System.out.println(lngest);
+        int longest = lngSubstring(s);
+        System.out.println(longest);
     }
 
     private static int lngSubstring(String s) {
@@ -25,7 +25,7 @@ public class LongestSubstring {
                 temp.remove(0);
             }
             temp.add(s.charAt(i));
-            longest = Integer.max(longest, temp.size());
+            longest = Math.max(longest, temp.size());
 
 
         }
