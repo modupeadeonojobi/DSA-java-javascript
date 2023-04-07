@@ -1,4 +1,4 @@
-package com.algorithm.imodupsy.avecfola.linked_list;
+package com.algorithm.imodupsy.avecfola.linked_list.implementation;
 
 /**
  * @author iModupsy
@@ -16,7 +16,7 @@ public class Runner {
         linkedList.insert(7);
 //        linkedList.print();
 
-        linkedList.delete(1);
+//        linkedList.delete(1);
         linkedList.print();
 
 

@@ -1,4 +1,8 @@
-package com.algorithm.imodupsy.avecfola.linked_list;
+package com.algorithm.imodupsy.avecfola.linked_list.implementation;
+
+
+import static java.util.Objects.isNull;
+import static java.util.Objects.nonNull;
 
 /**
  * @author iModupsy
@@ -16,22 +20,22 @@ public class LinkedList {
             head = node;
         }
         else {
-            Node n = head;
-            while (n.next != null) {
-                n = n.next;
+            Node last = head;
+            while (last.next != null) {
+                last = last.next;
             }
-            n.next = node;
+            last.next = node;
         }
 
     }
 
     public void print() {
         Node node = head;
-        while (node.next != null) {
+        while (nonNull(node)) {
             System.out.println(node.data);
             node = node.next;
         }
-        System.out.println(node.data);
+
     }
 
     public void delete(int data) {
@@ -55,5 +59,23 @@ public class LinkedList {
         prev.next = temp.next;
 
 
+    }
+
+
+    // REDO
+
+    public void add(int data) {
+        Node node = new Node();
+        node.data = data;
+
+        if (isNull(head)) {
+            head = node;
+        } else {
+            Node last = new Node();
+            while (nonNull(last.next)) {
+                last = last.next;
+            }
+            last.next = node;
+        }
     }
 }

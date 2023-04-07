@@ -13,3 +13,9 @@ z
 JJava - DSA/src/com/algorithm/imodupsy/avecfola/string/ValidPalindrome.java,0\9\09c2f8164caba525bceceb5102ece84996b37f15
 w
 GJava - DSA/src/com/algorithm/imodupsy/avecfola/string/ValidAnagram.java,6\b\6b0d716917e06fce78af604d311693bdd42260a8
+y
+IJava - DSA/src/com/algorithm/imodupsy/avecfola/string/CompressString.java,e\4\e4198b60a8e5289a55515814f68f790427d20568
+v
+FJava - DSA/src/com/algorithm/imodupsy/avecemma/string/RemoveVowel.java,7\b\7b26ef162ea44078e20c03b86782133c55db15d1
+{
+KJava - DSA/src/com/algorithm/imodupsy/avecfola/string/LongestSubstring.java,2\8\28a8a041d739d7e484b206e37cff68ad7b1679a5
