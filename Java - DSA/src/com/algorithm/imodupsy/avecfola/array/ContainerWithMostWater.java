@@ -1,4 +1,4 @@
-package com.algorithm.imodupsy.avecfola;
+package com.algorithm.imodupsy.avecfola.array;
 
 /**
  * @author iModupsy
