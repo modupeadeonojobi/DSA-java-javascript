@@ -1,0 +1,9 @@
+
+]
+java:S22592"BA "NullPointerException" could be thrown; "temp" is nullable here.(Êç”—ıÿÿÿÿ
+]
+java:S2259;"BA "NullPointerException" could be thrown; "prev" is nullable here.(ÄÎ³ıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¶úƒºûÿÿÿÿ
+N
+java:S18543"8Remove this useless assignment to local variable "temp".(¬½Ş“
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Åøôºşÿÿÿÿ
