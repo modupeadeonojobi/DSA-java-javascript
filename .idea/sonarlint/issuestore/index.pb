@@ -28,8 +28,6 @@ EJava - DSA/src/com/algorithm/imodupsy/avecemma/stack/impl/Runner.java,5\e\5ea4
 ƒ
 SJava - DSA/src/com/algorithm/imodupsy/avecemma/stack/impl/StackUsingLinkedList.java,0\1\0104c0f83cd5a38f1cfab9fa8874fa3b920d3249
 p
-@Java - DSA/src/com/algorithm/imodupsy/avecfola/queue/Runner.java,8\f\8fde26a4069d899394358ada585a70ef9efc1336
-p
 @Java - DSA/src/com/algorithm/imodupsy/avecfola/array/TwoSum.java,4\d\4d6b7d7b5177da9ca22de7ace14f06828a2ecc30
 u
 EJava - DSA/src/com/algorithm/imodupsy/avecfola/stack/impl/Runner.java,c\3\c3cc65600b717f3faadc2688e76868195a963668

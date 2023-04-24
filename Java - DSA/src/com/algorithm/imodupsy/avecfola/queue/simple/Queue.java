@@ -1,4 +1,4 @@
-package com.algorithm.imodupsy.avecfola.queue;
+package com.algorithm.imodupsy.avecfola.queue.simple;
 
 /**
  * @author iModupsy

@@ -1,4 +1,4 @@
-package com.algorithm.imodupsy.avecfola.queue_with_node;
+package com.algorithm.imodupsy.avecfola.queue.queue_with_node;
 
 /**
  * @author iModupsy
@@ -20,9 +20,6 @@ public class Runner {
 
         queueN.dequeue();
         queueN.print();
-
-
-
 
     }
 }

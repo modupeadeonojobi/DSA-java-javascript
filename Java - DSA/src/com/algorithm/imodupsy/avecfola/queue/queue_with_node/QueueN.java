@@ -1,4 +1,4 @@
-package com.algorithm.imodupsy.avecfola.queue_with_node;
+package com.algorithm.imodupsy.avecfola.queue.queue_with_node;
 
 import com.algorithm.imodupsy.avecfola.stack.impl.Node;
 
