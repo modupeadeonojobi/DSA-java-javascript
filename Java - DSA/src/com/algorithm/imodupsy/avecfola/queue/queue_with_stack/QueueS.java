@@ -52,4 +52,10 @@ public class QueueS {
         // we applied on stack1 because stack1 is the dominant stack
         return stack1.isEmpty();
     }
+
+    public void display() {
+        while (!stack1.isEmpty()) {
+//            System.out.println(stack1);
+        }
+    }
 }
