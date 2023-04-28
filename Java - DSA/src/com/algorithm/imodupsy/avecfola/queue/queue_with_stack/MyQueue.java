@@ -4,34 +4,16 @@ import java.util.Stack;
 
 /**
  * @author iModupsy
- * @created 24/04/2023
+ * @created 28/04/2023
  */
-public class QueueS {
+public class MyQueue {
 
-    Stack<Integer> stack1 =  new Stack<>();
-    Stack<Integer> stack2 =  new Stack<>();
+    Stack<Integer> stack1 = new Stack<>();
+    Stack<Integer> stack2 = new Stack<>();
 
-    public QueueS() {}
-
+    public MyQueue() {}
     public void push(int x) {
         stack1.push(x);
-    }
-
-    public int pop() {
-        while (!stack1.isEmpty()) {
-            // remove item from the back and add to a new stack
-            stack2.push(stack1.pop());
-        }
-
-        // now, the first item from stack1 is now the last in stack2
-        int itemPopped = stack2.pop();
-
-        // now, stack1 is empty we need to add the items back in
-        while (!stack2.isEmpty()) {
-            stack1.push(stack2.pop());
-        }
-
-        return itemPopped;
     }
 
     public int peek() {
@@ -39,18 +21,29 @@ public class QueueS {
             stack2.push(stack1.pop());
         }
 
-        int itemPeek = stack2.peek();
+       int itemPeeked = stack2.peek();
 
         while (!stack2.isEmpty()) {
             stack1.push(stack2.pop());
         }
-        System.out.println(itemPeek);
-        return itemPeek;
-
+        System.out.println(itemPeeked);
+        return itemPeeked;
     }
 
-    public boolean empty() {
-        // we applied on stack1 because stack1 is the dominant stack
+    public int pop() {
+        while (!stack1.isEmpty()) {
+            stack2.push(stack1.pop());
+        }
+
+        int itemPop = stack2.pop();
+
+        while (!stack2.isEmpty()) {
+            stack1.push(stack2.pop());
+        }
+        return itemPop;
+    }
+
+    boolean empty() {
         return stack1.isEmpty();
     }
 
