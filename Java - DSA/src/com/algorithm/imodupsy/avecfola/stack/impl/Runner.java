@@ -13,9 +13,11 @@ public class Runner {
         stack.push(3);
         stack.push(4);
 
+        stack.display();
         stack.pop();
-        stack.peek();
 
-//        stack.display();
+//        stack.peek();
+        System.out.println("----------------");
+        stack.display();
     }
 }
