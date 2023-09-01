@@ -1,15 +1,0 @@
-
-J
-java:S3740"/Provide the parametrized type for this generic.(¬İšàşÿÿÿÿ
-J
-java:S3740"/Provide the parametrized type for this generic.(¬İšàşÿÿÿÿ
-Q
-java:S1854";Remove this useless assignment to local variable "longest".(¿øú
-B
-java:S1481",Remove this unused "longest" local variable.(¿øú
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÕöÁşÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(»™Ã
-D
-java:S5413")Verify that "remove()" is used correctly.(°Õğÿÿÿÿÿ
-S	java:S106/"9Replace this use of System.out or System.err by a logger.(÷ºâÿÿÿÿÿÿ
-S	java:S1064"9Replace this use of System.out or System.err by a logger.(˜¸œøÿÿÿÿ
