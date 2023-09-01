@@ -87,7 +87,7 @@
       <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.FishAlive">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.bigo.sort.BubbleSort" />
       <module name="java" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinAndMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecemma.array.MinAndMax" />
+    <configuration name="Fish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.codility.stack_queue.Fish" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.avecemma.array.*" />
+          <option name="PATTERN" value="com.algorithm.imodupsy.codility.stack_queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +162,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.FishAlive" />
       <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.MinAndMax" />
       <item itemvalue="JUnit.FizzBuzzTest" />
       <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzz" />
       <item itemvalue="JUnit.LeapYearTest.testLeapYear" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FishAlive" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="JUnit.LeapYearTest.testLeapYear" />
         <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzz" />
-        <item itemvalue="Application.MinAndMax" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +205,7 @@
       <workItem from="1657776483073" duration="2178000" />
       <workItem from="1658601011827" duration="5698000" />
       <workItem from="1693577218938" duration="341000" />
+      <workItem from="1693577633236" duration="2040000" />
     </task>
     <servers />
   </component>
