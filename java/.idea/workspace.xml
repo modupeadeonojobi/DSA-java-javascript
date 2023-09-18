@@ -87,7 +87,7 @@
       <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FishAlive">
+  <component name="RunManager" selected="Application.ToLowerCase">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.bigo.sort.BubbleSort" />
       <module name="java" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.codility.stack_queue.Fish" />
+    <configuration name="ToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.leetcode.string.ToLowerCase" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.codility.stack_queue.*" />
+          <option name="PATTERN" value="com.algorithm.imodupsy.leetcode.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,7 +162,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FishAlive" />
+      <item itemvalue="Application.ToLowerCase" />
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="JUnit.FizzBuzzTest" />
       <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzz" />
@@ -170,7 +170,7 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FishAlive" />
+        <item itemvalue="Application.ToLowerCase" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="JUnit.LeapYearTest.testLeapYear" />
         <item itemvalue="JUnit.FizzBuzzTest" />
@@ -205,7 +205,9 @@
       <workItem from="1657776483073" duration="2178000" />
       <workItem from="1658601011827" duration="5698000" />
       <workItem from="1693577218938" duration="341000" />
-      <workItem from="1693577633236" duration="2040000" />
+      <workItem from="1693577633236" duration="2607000" />
+      <workItem from="1695072082216" duration="95000" />
+      <workItem from="1695072200987" duration="14000" />
     </task>
     <servers />
   </component>
