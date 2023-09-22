@@ -20,4 +20,3 @@ const word = 'Hello';
 let result = getLowerCaseString(word);
 
 console.log(result);
-

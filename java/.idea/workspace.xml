@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="" />
+    <list default="true" id="c5eba8d3-9f40-4f61-8ef3-876b2a7b8fc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../javascript/_encore/leetcode/toLowerCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/_encore/leetcode/toLowerCase.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +207,7 @@
       <workItem from="1693577633236" duration="2607000" />
       <workItem from="1695072082216" duration="95000" />
       <workItem from="1695072200987" duration="14000" />
-      <workItem from="1695072277977" duration="3142000" />
+      <workItem from="1695072277977" duration="3724000" />
     </task>
     <servers />
   </component>
