@@ -1,4 +1,4 @@
-package com.algorithm.imodupsy.bigo.sort;
+package com.algorithm.imodupsy.leetcode.sort;
 
 /**
  * @author iModupsy

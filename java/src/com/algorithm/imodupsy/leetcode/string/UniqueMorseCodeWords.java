@@ -1,4 +1,4 @@
-package com.algorithm.imodupsy.leetcode;
+package com.algorithm.imodupsy.leetcode.string;
 
 import java.util.HashSet;
 import java.util.Set;
