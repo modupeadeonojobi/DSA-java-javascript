@@ -87,7 +87,7 @@
       <recent name="com.algorithm.imodupsy.agiletechnicalpracticedistilled.classictdd.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FirstMissingPositive">
+  <component name="RunManager" selected="Application.MissingNumber">
     <configuration name="CyclicSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.leetcode.sort.CyclicSort" />
       <module name="java" />
@@ -140,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueMorseCodeWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.leetcode.string.UniqueMorseCodeWords" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.imodupsy.avecfola.string.MissingNumber" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithm.imodupsy.leetcode.string.*" />
+          <option name="PATTERN" value="com.algorithm.imodupsy.avecfola.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,18 +155,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.FirstMissingPositive" />
+      <item itemvalue="Application.MissingNumber" />
       <item itemvalue="Application.CyclicSort" />
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.MissingBracket" />
-      <item itemvalue="Application.UniqueMorseCodeWords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.FirstMissingPositive" />
         <item itemvalue="Application.MissingBracket" />
         <item itemvalue="Application.CyclicSort" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.UniqueMorseCodeWords" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +201,7 @@
       <workItem from="1695072082216" duration="95000" />
       <workItem from="1695072200987" duration="14000" />
       <workItem from="1695072277977" duration="11872000" />
-      <workItem from="1696595990099" duration="602000" />
+      <workItem from="1696595990099" duration="1309000" />
     </task>
     <servers />
   </component>
